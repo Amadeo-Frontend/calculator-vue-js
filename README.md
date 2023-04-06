@@ -1,5 +1,7 @@
 # Calculadora simples feita com VueJS
 
+# LIVE: https://calculator-vue-js-lac.vercel.app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
